@@ -1,8 +1,10 @@
+pandas
+numpy 
+mediapipe 
+scikit-learn
 streamlit
-streamlit_option_menu
-bcrypt
-opencv-python
 tensorflow
-numpy
-Pillow
-protobuf<4.0.0
+streamlit_option_menu
+matplotlib
+opencv
+math
