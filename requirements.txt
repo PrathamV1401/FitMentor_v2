@@ -1,10 +1,9 @@
 pandas
-numpy 
-mediapipe 
+numpy
+mediapipe
 scikit-learn
 streamlit
 tensorflow
-streamlit_option_menu
+streamlit-option-menu
 matplotlib
-opencv
-math
+opencv-python
